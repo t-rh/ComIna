@@ -170,7 +170,7 @@ PIN_BUZZER = 3
 
 ## 6. Topics MQTT
 
-Prefijo común: `casa/medicinas/`
+Prefijo común: `casa/monitorizacion/`
 
 | Topic | Publica | Se suscribe | QoS | Contenido |
 |---|---|---|---|---|
